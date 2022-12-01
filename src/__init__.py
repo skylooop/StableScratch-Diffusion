@@ -1,0 +1,3 @@
+from .pipelines import StableDiffusionPipeline
+
+
